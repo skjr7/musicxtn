@@ -45,7 +45,7 @@ Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❱ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
+                        "🏩 ❲ 𝐆ʀᴏᴜᴘ 𝐀ᴅᴅ 𝐏ᴀɴɴᴀᴛʜᴀᴠᴀɴ 𝐑ᴀᴛʜᴀᴍ 𝐊ᴀᴋᴋɪ 𝐒ᴀᴠᴀɴ ❳ 🏩", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
                     )
                 ],
                 [
