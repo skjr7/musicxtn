@@ -50,10 +50,10 @@ Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
                 ],
                 [
                     InlineKeyboardButton(
-                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/SUPERIOR_BOTS/160"
+                        "🤯 𝐇ᴇʟᴘ & 𝐂ᴍᴅs 🤯", url=f"https://t.me/SUPERIOR_BOTS/160"
                     ),
                     InlineKeyboardButton(
-                        "ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/ITZ-ZAID/Zaid-Vc-Player"
+                        "🤧 𝐒ᴏᴜʀᴄᴇ 𝐂ᴏᴅᴇ 🤧", url="https://t.me/repo_one_love"
                     )
                 ],
                 [
@@ -61,7 +61,7 @@ Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
                         "📢 ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                     InlineKeyboardButton(
-                        "ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🇮🇳", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "😻 𝐒ᴜᴘᴘᴏʀᴛ 😻", url=f"https://t.me/tamil_chat_Junctions"
                     )
                 ]
                 
@@ -95,7 +95,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " ʀᴇᴘᴏ ⚒️", url=f"https://github.com/ITZ-ZAID/Zaid-Vc-Player")
+                        " 𝐑ᴇᴘᴏ 🤫", url=f"https://t.me/repo_one_love")
                 ]
             ]
         ),
