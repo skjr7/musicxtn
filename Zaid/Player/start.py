@@ -39,7 +39,7 @@ async def start_(client: Client, message: Message):
         caption=f"""**A Telegram Music Bot Based Mongodb.
  Add Me To Ur Chat For and Help and And Support Click On Buttons  ...
 💞  These Features A.I Based 
-Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
+Powered By [ᴍᴀғɪᴀ](t.me/mafiaking_fed) ...
 **""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -53,7 +53,7 @@ Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
                         "🤯 𝐇ᴇʟᴘ & 𝐂ᴍᴅs 🤯", url=f"https://t.me/SUPERIOR_BOTS/160"
                     ),
                     InlineKeyboardButton(
-                        "🤧 𝐒ᴏᴜʀᴄᴇ 𝐂ᴏᴅᴇ 🤧", url="https://t.me/repo_one_love"
+                        "🤧 𝐒ᴏᴜʀᴄᴇ 𝐂ᴏᴅᴇ 🤧", url=f"https://t.me/repo_channeleh"
                     )
                 ],
                 [
@@ -73,7 +73,7 @@ Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
 @Client.on_message(commandpro(["/start", "/alive"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/dd9ca2b2122dd68ffab0e.png",
+        photo=f"https://telegra.ph/file/e06467f9618238f8dbe6b.jpg",
         caption=f"""Thanks For Adding Me To Ur Chat, For Any Query U Can Join Our Support Groups 🔥♥️""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -89,13 +89,13 @@ async def start(client: Client, message: Message):
 @Client.on_message(command(["repo", "source"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/92688f2c44a35ba673c23.png",
+        photo=f"https://telegra.ph/file/88480ef0fc2481cdff010.jpg",
         caption=f"""Here Is The Source Code Fork And Give Stars ✨""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        " 𝐑ᴇᴘᴏ 🤫", url=f"https://t.me/repo_one_love")
+                        " 𝐑ᴇᴘᴏ 🤫", url=f"https://t.me/repo_channeleh")
                 ]
             ]
         ),
